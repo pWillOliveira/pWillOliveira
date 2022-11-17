@@ -8,7 +8,7 @@
   <h3>📚 O que estudo atualmente:</h3> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Will-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Will-Java" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
   ##
