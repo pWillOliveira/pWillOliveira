@@ -1,13 +1,12 @@
-<div align="center"><h2> William Oliveira 🧙‍♂️  </h2></div>
+<div align="Left"><h2>🧙‍♂️ William Oliveira</h2></div>
 <div align="center">
   <a href="https://github.com/pWillOliveira">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pwilloliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pwilloliveira&layout=compact&langs_count=7&theme=tokyonight"/>  
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pwilloliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pwilloliveira&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 <div align="center">
-  <h3>📚 O que estudo atualmente:</h3> 
-
-<div style="display: inline_block"><br>
+  <h2>📚 O que estudo atualmente:</h2> 
+<div style="display: inline_block">
   <img align="center" alt="Will-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Will-Springboot" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Will-MySQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
