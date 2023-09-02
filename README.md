@@ -1,4 +1,4 @@
-<div align="Left"><h2>🧙‍♂️ William Oliveira</h2></div><br>
+<div align="center"><h2>🧙‍♂️ William Oliveira</h2></div><br>
 
 <div align="center">
   <a href="https://github.com/pWillOliveira">
